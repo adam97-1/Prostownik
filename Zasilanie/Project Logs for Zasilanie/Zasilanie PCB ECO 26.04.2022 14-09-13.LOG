@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=VCC_Main Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=VCC_3,3V Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=VCC_Main Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=VCC_Driv Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Change Component Footprint: Designator=C5 Old Footprint=C_POL_D6,3x11,2 New Footprint=C_POL_D16x25
+Change Component Footprint: Designator=C7 Old Footprint=C_POL_D8x11,5 New Footprint=C_POL_D16x25
+Change Component Footprint: Designator=C4 Old Footprint=C_POL_D10x16 New Footprint=C_POL_D16x25
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=VCC_Main Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VCC_3,3V Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=VCC_Main Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=VCC_Driv Pin=C7-2
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C2-2
+Added Pin To Net: NetName=NetC1_2 Pin=MP1-3
+Added Pin To Net: NetName=NetC1_2 Pin=P2-1
+Added Net: Name=NetC1_2
