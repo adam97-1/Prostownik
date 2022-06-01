@@ -4,3 +4,5 @@ Version=1.0
 ProjectPath=Plyta_glowna\Glowna_plytka.PrjPcb
 [Project2]
 ProjectPath=Zasilanie\Zasilanie.PrjPcb
+[Project3]
+ProjectPath=..\Prostownik_dominika\Projekt_Battery Charger.PrjPCB
