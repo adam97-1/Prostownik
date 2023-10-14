@@ -89,7 +89,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TUPBBHNT
 
 [Document4]
 DocumentPath=..\Plyta_glowna\Library\MyLibrary.SchLib
@@ -106,7 +106,24 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YCWMZCDG
+
+[Document5]
+DocumentPath=Zasilanie.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ERHLCUUD
 
 [Configuration1]
 Name=Sources
@@ -1135,6 +1152,30 @@ ModelUpdate4=1
 ModelType5=PCBLIB
 ModelName5=C_POL-R25X50
 ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=SMD-0201c
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=SMD-0402C
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=SMD-0603C
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=SMD-0805C
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=SMD-1007C
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=SMD-1206C
+ModelUpdate11=1
+ModelType12=PCBLIB
+ModelName12=SMD-1210C
+ModelUpdate12=1
+ModelType13=PCBLIB
+ModelName13=SMD-4030C
+ModelUpdate13=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0

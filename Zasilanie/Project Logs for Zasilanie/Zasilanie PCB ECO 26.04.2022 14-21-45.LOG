@@ -1,5 +1,0 @@
-Change Component Footprint: Designator=C5 Old Footprint=C_POL_D16x25 New Footprint=C_POL_D6,3x11,2
-Change Component Footprint: Designator=C7 Old Footprint=C_POL_D16x25 New Footprint=C_POL_D8x11,5
-Change Component Footprint: Designator=C4 Old Footprint=C_POL_D16x25 New Footprint=C_POL_D10x16
-Change Component Footprint: Designator=C6 Old Footprint=C_POL_D16x25 New Footprint=C_POL_D10x16
-Added Room: Name=Zasilanie
